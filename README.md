@@ -4,6 +4,8 @@ To-do List:
 
 (X) What was the total cases of contamination, deaths and recovery of/from COVID-19
 
-() What were the five countries with most people contaminated
+(X) What were the five countries with most people contaminated in 2020
 
-() Filter the data for Brazil
+(X) Filter the data for Brazil
+
+() Make a graph for daily infections
