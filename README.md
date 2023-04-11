@@ -2,7 +2,7 @@ Analysis of COVID-19 Data obtained from https://www.kaggle.com/datasets/imdevskp
 
 To-do List:
 
-() What was the total cases of contamination, deaths and recovery of/from COVID-19
+(X) What was the total cases of contamination, deaths and recovery of/from COVID-19
 
 () What were the five countries with most people contaminated
 
