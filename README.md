@@ -8,4 +8,4 @@ To-do List:
 
 (X) Filter the data for Brazil
 
-() Make a graph for daily infections
+(X) Make a graph for daily infections in Brazil
