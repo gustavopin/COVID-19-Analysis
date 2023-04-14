@@ -9,6 +9,8 @@ To-do List:
 (X) What were the five countries with most fatalities
 
 (x) Countries with the most infection rate (per 1M)
+ 
+(X) Countries with the most fatality rate (per 1M)
 
 (X) Filter the data for Brazil
 
