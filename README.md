@@ -1,17 +1,19 @@
-Analysis of COVID-19 Data obtained from https://www.kaggle.com/datasets/imdevskp/corona-virus-report
+Analysis of COVID-19 Data obtained from [Kaggle](https://www.kaggle.com/datasets/imdevskp/corona-virus-report)
 
-To-do List:
+This analysis have the following information:
 
-(X) What was the total cases of contamination, deaths and recovery of/from COVID-19
+- What was the total cases of contamination, deaths and recovery of/from COVID-19
 
-(X) What were the five countries with most people contaminated in 2020
+- What were the five countries with most people contaminated in 2020
 
-(X) What were the five countries with most fatalities
+- What were the five countries with most fatalities
 
-(x) Countries with the most infection rate (per 1M)
+- Countries with the most infection rate (per 1M)
  
-(X) Countries with the most fatality rate (per 1M)
+- Countries with the most fatality rate (per 1M)
 
-(X) Filter the data for Brazil
+- Filter the data for Brazil
+    - Cases, fatalities, recoveries, cases and fatalities per million
+    - Graph for daily infections in Brazil
 
-(X) Make a graph for daily infections in Brazil
+[All the data used can be found in the Folder 'Data'](Data)
